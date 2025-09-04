@@ -1,0 +1,19 @@
+{
+  "name": "nesfab-plugin",
+  "displayName": "Nesfab Plugin",
+  "description": "Palette created by Full Name",
+  "version": "1.0",
+  "author": { "name": "Full Name", "url": "https://twitter.com/your_username_or_homepage_url" },
+  "categories": [
+    "Palettes",
+    "Scripts"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "NES-Palette", "path": "./nes.gpl" }
+    ],
+    "scripts": [
+        { "path": "./nf_plugin.lua" }
+    ]
+  }
+}

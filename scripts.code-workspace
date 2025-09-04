@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "~/.config/aseprite/scripts"
+		},
+		{
+			"path": "test/project"
+		}
+	],
+	"settings": {}
+}
